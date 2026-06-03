@@ -5,6 +5,8 @@ Customer Shopping Behavior Analysis is an end-to-end data analytics project that
 
 ---
 
+## Dashboard Over
+
 ## Tools and Technologies Used
 - MySQL
 - Python
@@ -23,6 +25,14 @@ Customer Shopping Behavior Analysis is an end-to-end data analytics project that
 - Compared performance across category, age group, season, and payment method.
 
 ---
+
+## Key Insights
+- Clothing appears to be the highest-performing category.
+- The 56+ age group contributes the most to spending.
+- Seasonal sales vary, showing stronger performance in specific seasons.
+- Payment preferences differ across customer segments.
+- Shipping preferences are concentrated in a few methods.
+- Customer behavior changes by age, and gender.
 
 
 
