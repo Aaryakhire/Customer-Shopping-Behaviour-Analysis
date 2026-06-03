@@ -6,6 +6,25 @@ Customer Shopping Behavior Analysis is an end-to-end data analytics project that
 ---
 
 ## Tools and Technologies Used
+- MySQL
+- Python
+- Pandas
+- Power BI
+
+---
+
+## Key Tasks Performed
+- Collected and cleaned raw shopping data.
+- Renamed columns and standardized field names.
+- reated derived fields like age groups and purchase frequency scores.
+- Performed exploratory data analysis to find patterns and trends.
+- Calculated KPIs such as revenue, average rating, and discount usage.
+- Designed Power BI visuals and dashboards.
+- Compared performance across category, age group, season, and payment method.
+
+---
+
+
 
 
 
